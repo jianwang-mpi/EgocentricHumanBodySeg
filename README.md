@@ -7,6 +7,7 @@ and further used in [ScenEgo](https://github.com/yt4766269/SceneEgo) project for
 ### Installation
 1. Install pytorch >= v1.11.0 following [official instruction](https://pytorch.org/).
 2. run: `pip install -r requirements.txt`
+3. Download [pretrained models](https://nextcloud.mpi-klsb.mpg.de/index.php/s/jHCDJ4wDTerPmqk) and put them under `checkpoints/` folder.
 
 ### Run the demo
 ```shell
